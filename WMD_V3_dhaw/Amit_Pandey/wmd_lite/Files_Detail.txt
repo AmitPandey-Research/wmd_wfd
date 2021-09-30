@@ -1,0 +1,2 @@
+This folder consists of txt files of source embeddings. The json files of dictionary of embeddings have been removed. Same as word2vec npy keyvector
+
